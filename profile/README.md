@@ -18,4 +18,6 @@
 
 ### About
 
-Nitrux AppImage Build Hub hosts repositories to build AppImages automated by GitHub Actions. The AppImages provided by Nitrux AppImage Build Hub target specifically Nitrux. We'll upload these AppImages to AppImageHub.com, where users of Nitrux can download these AppImages using the NX Software Center.
+Nitrux AppImage Build Hub hosts repositories to build AppImages automated by GitHub Actions. The AppImages provided by Nitrux AppImage Build Hub target specifically Nitrux. 
+
+We’ll upload these AppImages to AppImageHub.com, where users of Nitrux can download these AppImages using the NX Software Center. The idea is that by automating the builds of these AppImages, we can provide consistent and updated files compared to the AppImages currently hosted on the website and that these AppImages work in Nitrux.
